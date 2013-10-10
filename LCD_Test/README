@@ -1,0 +1,8 @@
+Arduino code with examples to control the Serial LCD Driver v1.1
+from www.seeeduino.com without using the SerialLCD library
+
+Arduino IDE 1.x and higher
+
+tested with Arduino Mega 2560
+
+LCD: http://www.seeedstudio.com/wiki/index.php?title=Grove_-_Serial_LCD_V1.0
